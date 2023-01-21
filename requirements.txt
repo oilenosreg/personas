@@ -1,0 +1,6 @@
+
+Django
+django-extensions
+django-livereload-server
+Pillow
+psycopg2
